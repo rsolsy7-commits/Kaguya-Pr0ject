@@ -4,7 +4,7 @@ import { log } from "./logger/index.js";
 var app = express();
 
 app.get("/", (req, res) => {
-  res.send("<h1>Kaguya Bot is running!</h1>");
+  res.send("<h1>Lara Bot is running!</h1>");
 });
 
 app.listen(config.port, () => {
