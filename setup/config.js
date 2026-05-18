@@ -1,7 +1,7 @@
 export default {
-  "prefix": "!",  // Bot prefix for command invocation
+  "prefix": ".",  // Bot prefix for command invocation
   "language": "vi_VN",  // Language setting for the bot
-  "BOT_NAME": "Thieu Trung Kien",  // The name of the bot
+  "BOT_NAME": "lara",  // The name of the bot
   "ADMIN_IDS": ["61562975344669"],  // Admin IDs who have special privileges
 
   // Bot configuration options
